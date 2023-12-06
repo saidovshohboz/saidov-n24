@@ -83,7 +83,6 @@ img {
 }
 
 
-/* SITE-HEADER */
 /* SITE-HEADER-TOP */
 .site-header-top {
   padding-top: 30px;
@@ -114,7 +113,6 @@ img {
 .site-header-logo:active {
   opacity: 0.6;
 }
-
 
 
 /* CURRENCY-RATES */
@@ -531,6 +529,9 @@ img {
   border-radius: 15px;
 }
 
+.sidebar-ad-img-tall {
+  height: 553px;
+}
 
 /* SITE-FOOTER */
 .site-footer {
